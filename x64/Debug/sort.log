@@ -1,0 +1,6 @@
+﻿  Generate moc_predefs.h
+  sort.cpp
+sort.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\users\hp\qtworkspace\sort\sort.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  sort.vcxproj -> F:\Users\HP\Qtworkspace\sort\debug\sort.exe
+  sort.vcxproj -> debug\sort.pdb (Full PDB)
